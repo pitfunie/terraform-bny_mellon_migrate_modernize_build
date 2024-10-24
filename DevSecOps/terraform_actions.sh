@@ -1,4 +1,4 @@
-terraform_actions.sh:
+#terraform_actions.sh:
 
 #!/bin/bash
 
