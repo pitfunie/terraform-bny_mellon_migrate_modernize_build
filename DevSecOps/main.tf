@@ -1,6 +1,6 @@
-Step 1: Modularize the Terraform Code
+# Step 1: Modularize the Terraform Code
 
-Main Terraform Configuration (main.tf):
+# Main Terraform Configuration (main.tf):
 
 
 provider "aws" {
